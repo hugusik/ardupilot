@@ -1,0 +1,1 @@
+Ta galaz jest po to, by zmodyfikowac kod calego ardupilota
